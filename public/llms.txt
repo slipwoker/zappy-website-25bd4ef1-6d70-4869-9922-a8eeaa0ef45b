@@ -1,0 +1,100 @@
+# BrightDrop — Generative Engine Optimization Map
+
+> A vibrant and distinctive digital products store designed to stand out with a bright, eye-catching aesthetic. The store aims to deliver a unique shopping experience for digital goods, complete with integrated payment capabilities and full custom domain and hosting support.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+BrightDrop is your bold destination for premium digital products. Powered by top payment processing platforms, we make buying fast, safe, and brilliantly simple. Start shopping now!
+
+### Features
+https://example.com/features
+Discover BrightDrop&#39;s cutting-edge features built on trusted payment processing services. From instant transactions to secure checkouts, every tool is designed to elevate your digital buying experience.
+
+### Domain & Hosting
+https://example.com/domain-hosting
+Launch your digital storefront with BrightDrop&#39;s full domain and hosting support. Paired with seamless online payment processing companies, your custom store is ready to sell from day one. Go live today!
+
+### Contact
+https://example.com/contact
+Have questions about our credit card payment processing services or need help setting up your store? BrightDrop&#39;s team is ready to guide you. Drop us a message and let&#39;s build something brilliant together.
+
+### Products
+https://example.com/products
+Our Products - BrightDrop
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - BrightDrop
+
+### Category
+https://example.com/category/:slug
+Products - BrightDrop
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BrightDrop
+A vibrant and distinctive digital products store designed to stand out with a bright, eye-catching aesthetic. The store aims to deliver a unique shopping experience for digital goods, complete with integrated payment capabilities and full custom domain and hosting support.
+
+## Target Audience
+- Digital Creators
+- Tech Enthusiasts
+- Online Entrepreneurs
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
